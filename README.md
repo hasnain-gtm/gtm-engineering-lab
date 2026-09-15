@@ -1,3 +1,2 @@
-﻿## GTM Engineering Lab
-
-My first GitHub project for learning GTM Engineering.
+# gtm-engineering-lab
+My hands-on GTM Engineering, AI automation, API, CLI, and agent projects.
