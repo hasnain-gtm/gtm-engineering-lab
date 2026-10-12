@@ -19,7 +19,9 @@ An end-to-end, code-driven Go-To-Market (GTM) engineering pipeline built in Pyth
 │ Local Mock Server  │◄──│ Syntax Validation  │◄──│ uk_directors_        │
 │ (Email + LinkedIn) │   │ & Identity Scoring │   │ enriched.csv         │
 └────────────────────┘   └────────────────────┘   └──────────────────────┘
+
 💡 Key Features & Modules
+
 Account Extraction (fetch_real_apollo_leads.py): Sources live target company records via header-based REST API calls (X-Api-Key).
 
 Data Normalization (clean_companies.py): Uses custom regex patterns to strip legal suffixes (Ltd, LLC, Group) for natural outreach merge tags ({{clean_company_name}}).
