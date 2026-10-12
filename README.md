@@ -20,7 +20,7 @@ An end-to-end, code-driven Go-To-Market (GTM) engineering pipeline built in Pyth
 │ (Email + LinkedIn) │   │ & Identity Scoring │   │ enriched.csv         │
 └────────────────────┘   └────────────────────┘   └──────────────────────┘
 
-💡 Key Features & Modules
+##💡 Key Features & Modules
 
 Account Extraction (fetch_real_apollo_leads.py): Sources live target company records via header-based REST API calls (X-Api-Key).
 
